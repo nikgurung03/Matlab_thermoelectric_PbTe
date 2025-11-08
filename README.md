@@ -1,0 +1,4 @@
+This application is build using MATLAB R2024b. It is used for the evaluation of Thermoelectric Properties of PbTe nanaoparticle.It uses four input parameters namely Barrier Height which will be in a particular range, other parameters include the barrier width which will be in units of cm, next we have is the temperature and the carrier concentration.
+In order to get the TE properties w.r.t barrier heigh, the other three input parameters need to be constant(e.g Barrier Width-12e-7,Temp-300,Carrier Conc:5e21).
+The user can get the TE properties at a particular temperature and at the next interface users can plot or export the desired reults.
+Users can also vary the temperature keeping the first window open and just vary the temperature and move to the next window and can export to the same excel file but gets same in different sheets.
